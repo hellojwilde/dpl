@@ -9,7 +9,7 @@ module DPL
       # https://developers.google.com/appengine/downloads
       GAE_VERSION='1.9.19'
       GAE_ZIP_FILE="google_appengine_#{GAE_VERSION}.zip"
-      SHA1SUM='eec50aaf922d3b21623fda1b90e199c3ffa9e16e'
+      SHA1SUM='2a0b7c286858a0f97e56192f6c9c0e4793961f4a'
       BASE_DIR=Dir.pwd
       GAE_DIR=File.join(BASE_DIR, 'google_appengine')
       APPCFG_BIN=File.join(GAE_DIR, 'appcfg.py')
